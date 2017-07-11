@@ -1,0 +1,10 @@
+c:\users\khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\bin\Debug\antiaircraft.exe.config
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\obj\Debug\antiaircraft.csprojResolveAssemblyReference.cache
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\obj\Debug\antiaircraft.Form1.resources
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\obj\Debug\antiaircraft.Properties.Resources.resources
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\obj\Debug\antiaircraft.csproj.GenerateResource.Cache
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\bin\Debug\antiaircraft.exe
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\bin\Debug\antiaircraft.pdb
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\obj\Debug\antiaircraft.exe
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\obj\Debug\antiaircraft.pdb
+C:\Users\Khayyam\documents\visual studio 2015\Projects\antiaircraft\antiaircraft\obj\Debug\antiaircraft.Secenekler.resources
